@@ -147,7 +147,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC6() {
-
+		System.out.println("Pau Feliz Año");
 	}
 
 	// FILA 3
